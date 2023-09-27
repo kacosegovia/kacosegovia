@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcos, @kacosegovia
-- 🌱 I’m currently learning java and interested on phyton
+- 🌱 I’m currently learning .NET MAUI and interested on PHP
 - 💞️ I’m looking to collaborate on everything i can
 
 <!---
