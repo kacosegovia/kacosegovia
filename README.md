@@ -35,21 +35,6 @@ Desarrollador autodidacta con enfoque en aplicaciones de escritorio y móviles. 
 
 ---
 
-## 📌 Proyectos destacados (reales)
-
-### 🔑 Sistema de Login Multi-Institución (MAUI + API REST)
-- Login inicial por nombre de institución  
-- API que identifica automáticamente IP, credenciales y selecciona las bases `Administracion_institucion.NET` y `Sist_Inventario_institucion.NET`  
-- Manejo de logo (varbinary) y datos remotos  
-- Arquitectura con `BaseViewModel` + ViewModels derivados + Shell Navigation  
-
-### 🧾 Módulo completo de Deterioro Total (VB.NET)
-- Procedimiento complejo para inserciones/actualizaciones en múltiples tablas relacionadas  
-- Control de reintentos para generar números únicos con `GenerarNumeroSeguro`  
-- Compatibilidad total con trazas, bajas, exclusiones y transacciones internas  
-
----
-
 ## 🎯 Objetivos actuales
 
 - Consolidar arquitectura limpia para aplicaciones MAUI  
