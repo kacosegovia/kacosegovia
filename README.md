@@ -1,4 +1,4 @@
-# 👋 Hola, soy Kaco Segovia
+# 👋 Hola, soy Marcos Segovia
 
 Desarrollador autodidacta con enfoque en aplicaciones de escritorio y móviles. Actualmente estoy profundizando en **.NET MAUI**, conexiones seguras a bases de datos, arquitectura de APIs, VB.NET y buenas prácticas para apps empresariales. También exploro **PHP** para backend y proyectos web simples.
 
