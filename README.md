@@ -6,7 +6,7 @@ Desarrollador autodidacta con enfoque en aplicaciones de escritorio y móviles. 
 
 ## 🧩 Lo que hago actualmente
 
-- 🚀 Construcción de aplicaciones móviles y de escritorio con **.NET MAUI (.NET 9)**  
+- 🚀 Construcción de aplicaciones móviles y de escritorio con **.NET MAUI (.NET 10)**  
 - 🗄️ Integración con bases de datos **SQL Server**, manejo de trazas, SPs y procesos complejos  
 - 🔐 Seguridad: encriptación, SSL, separación backend/app, buenas prácticas para conexiones  
 - 📱 Proyectos con navegación avanzada, ViewModels heredados, singletons y manejo de sesión  
